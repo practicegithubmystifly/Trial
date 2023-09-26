@@ -16,5 +16,7 @@ public class Primenumber
 		   System.out.println("palindrome number ");    
 		  else    
 		   System.out.println("not palindrome");    
+		  System.out.print("Hi trupti");
 		}  
+
 }
